@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VidyaVarshitha4209/Leet_Code/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VidyaVarshitha4209/Leet_Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
